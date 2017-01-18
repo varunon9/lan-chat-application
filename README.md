@@ -11,3 +11,8 @@ Building LanChatApplication
 
     java -jar LanChatApplication.jar
 
+## Screenshots
+|  |  |
+| --- | --- |
+|![Desktop App] (./screenshots/chat-screen.png) | ![Chat Screen] (./screenshots/main-screen.png)|
+

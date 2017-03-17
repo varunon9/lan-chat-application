@@ -16,5 +16,5 @@ This is a netbeans project. You can import it in Netbeans.
 ## Screenshots
 |  |  |
 | --- | --- |
-|![Desktop App] (./screenshots/chat-screen.png) | ![Chat Screen] (./screenshots/main-screen.png)|
+|![Desktop App](./screenshots/chat-screen.png) | ![Chat Screen](./screenshots/main-screen.png)|
 
